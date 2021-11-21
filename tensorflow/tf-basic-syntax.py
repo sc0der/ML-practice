@@ -8,4 +8,4 @@ print(my_var)
 result = tfc.global_variables_initializer()
 sess.run(result)
 sess.run(my_var)
-# print(ddd)
+#
