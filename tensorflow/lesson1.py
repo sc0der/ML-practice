@@ -1,3 +1,6 @@
+# turning strings into sequences of integer word indices
+
+
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
